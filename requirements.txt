@@ -1,0 +1,6 @@
+jupyter
+networkx
+pandas
+seaborn
+sklearn
+scikit-optimize
